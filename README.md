@@ -6,7 +6,11 @@ including measuring software performance, planning work items, measuring product
 ```
 
 ```
-There've many ways (implemented in Java) how can calculate software metrics.
+There've many ways (implemented in Java) how can calculate software metrics. Divided in four parts -
+1. Code size
+2. Design size
+3. SRS measure
+4. Functional Point
 ```
 
 ```
